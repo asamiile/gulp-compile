@@ -13,11 +13,11 @@
 
 ## Usage
 
-・HTMLバリデーション
+- HTMLバリデーション
 $ gulp valid
 
-・CSS のコンパイル
+- CSS のコンパイル
 $ gulp css
 
-・image ファイルの圧縮
+- image ファイルの圧縮
 $ gulp image
